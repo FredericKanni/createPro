@@ -1,0 +1,73 @@
+
+.center {
+    margin: auto;
+  }
+
+.un{
+    width:1260px; 
+    height: 60px;
+    background-color: blue;
+}
+
+.deux{
+    width:1260px; 
+    height: 320px;
+    background-color: red;
+}
+
+.grande{
+    width:1400px; 
+    height: 1100px;
+    background-color: green;
+}
+
+.cinq{
+    width:900px; 
+    height: 90px;
+    background-color: orange;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+  
+}
+
+.six{
+    width:1260px; 
+    height: 60px;
+    background-color: blue;
+}
+
+
+.sept{
+    width:260px; 
+    height: 195px;
+    background-color: black;
+}
+
+
+.huit{
+    width:260px; 
+    height: 480px;
+    background-color: red;
+}
+
+ul#top li {
+    display:inline;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+  }
+
+
+
+  #top{
+
+    TEXT-ALIGN: center;
+  }
+
+
+  
+
+
+
+
